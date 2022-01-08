@@ -3,6 +3,5 @@
 - 🔭 Sou Coordenador de Admnistração de Vendas e Inteligência de Mercado numa empresa de produtos odontológicos.
 - 🌱 Estudando Java
 - 📫 Contate-me no e-mail: renelemoss@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Sou um exímio jogador de FIFA no Playstation.
 
