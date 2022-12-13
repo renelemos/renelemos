@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Renê Lemos
 
-- 🌱 Estudando Java
+- 🌱 Estudando Python
 - 📫 Contate-me no e-mail: renelemoss@gmail.com
 
 <div style="display: inline_block"><br>
