@@ -13,7 +13,7 @@
 ## Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renelemos&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## Visitas no perfil
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seunome&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=renelemos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
