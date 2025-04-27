@@ -1,4 +1,6 @@
-### Olá!! Eu sou o Renê
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+bem-vindo(a)+ao+meu+perfil!;Eu+adoro+programar+e+aprender+n coisas novas!;Vamos+codar+juntos!&center=true&width=380&height=45">
+</p>
 
 - 📫 Contate-me no e-mail: renelemoss@gmail.com
 
@@ -25,3 +27,4 @@
 </p>
 
 ---
+
